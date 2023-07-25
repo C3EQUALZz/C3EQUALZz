@@ -33,7 +33,7 @@ My journey into the IT world began quite recently as I am currently a university
  <br>
   <div align="center">
   <a href="https://github.com/C3EQUALZz">
-    <img src="https://skillicons.dev/icons?i=python,java,bash,git,linux,regex,html,css,postgres,cloudflare" align="right"/><br><br>
+    <img src="https://skillicons.dev/icons?i=python,java,bash,git,linux,regex,html,css,postgres,cloudflare" align="center"/><br><br>
   <img width="400" src="photo_github/github-snake.svg" alt="snake" align="right"/>
   </a>
   </div>
