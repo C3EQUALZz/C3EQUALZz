@@ -44,7 +44,7 @@ My journey into the IT world began quite recently as I am currently a university
 <li> 🌱 I’m currently learning: air-cracking, OOP, async python, web parsing;</li> 
 <li> 🔭 I’m currently working on OSINT telegram bot; </li> 
 <li> 🤔 I'm actively studying algorithms and data structures; </li> 
-
+<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Certificates+for+completed+courses:" alt="Typing SVG" /></a>
 <li> <a href="https://stepik.org/cert/1560586"> Stepik course - "Поколение Python": курс для начинающих </a> </li>
 <li> <a href="https://stepik.org/cert/1909905"> Stepik course - "Поколение Python": курс для продвинутых </a> </li>
