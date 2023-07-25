@@ -6,8 +6,8 @@
     <div align="center" style="font-size:35px">
    <img src="https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-5.gif"  />
     <br>
-  <p> Hi there, I'm <a href="https://github.com/C3EQUALZz/C3EQUALZz" target="_blank"> Danil Kovalev</a> </p>
-  <p>I'm self-taught passionate in CyberSecurity, Development </p>
+  <p> Hi there, I'm <a href="https://github.com/C3EQUALZz/C3EQUALZz" target="_blank"> Danil Kovalev </a> (Pentester) </p>
+  <p>I'm self-taught passionate in CyberSecurity </p>
     </div>
 
 <div style="font-family: FiraCode; font-size: 22px">
@@ -19,17 +19,18 @@
 <li><b>Name:</b> Danil </li>
 <li><b>Surname:</b> Kovalev </li>
 <li><b>Nickname:</b> c3equalz </li>
-<li><b>Loves:</b> programming, anime, math </li>
+<li><b>Loves:</b> hacking, programming, anime, math </li>
 <li><b>Gender:</b> he/his/male </li>
 <li><b>Hobbys:</b> pentesting, wardriving, OSINT </li>
+<li><b>Experience:</b> none </li>
 <p align="left"> I am a beginner pentester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
-My journey into the IT world began quite recently as I am currently a university student. During my free time, I strive to expand my knowledge by taking various courses. I am particularly interested in information security, especially pentesting, hacking methods, and social engineering. As a beginner in this field, I am actively studying all aspects of information security to become a qualified specialist who can help protect companies and organizations from cyber attacks. You can find my projects and research on my GitHub account, and I am always open to collaborating and communicating with other experts in the field. </p>
+My journey into the IT world began quite recently as I am currently a university student. During my free time, I strive to expand my knowledge by taking various courses. I am particularly interested in information security, especially pentesting, hacking methods, and social engineering. As a beginner in this field, I am actively studying all aspects of information security to become a qualified specialist who can help protect companies and organizations from cyberattacks. You can find my projects and research on my GitHub account, and I am always open to collaborating and communicating with other experts in the field. </p>
 <br>
 </div>
 <hr>
 
 <div>
-<h2 align="center">            ~ 📇 Knowledge 📇 ~</h2>
+<h2 align="center">            ~ 📇 Knowledge and Skills 📇 ~</h2>
  <br>
   <div align="center">
   <a href="https://github.com/C3EQUALZz">
@@ -41,9 +42,12 @@ My journey into the IT world began quite recently as I am currently a university
 
 <div style="font-family: FiraCode; font-size: 22px">
 <p align = 'left'>
-<li> 🌱 I’m currently learning: air-cracking, OOP, async python, web parsing;</li> 
-<li> 🔭 I’m currently working on OSINT telegram bot; </li> 
-<li> 🤔 I'm actively studying algorithms and data structures; </li> 
+<li> 🌱 Python, Object-Oriented Programming (OOP), SQL, Git, Bash </li> 
+<li> 🔭 Metasploit, Nmap, Wireshark, Airmon-ng, Snoop, hacking passwords, OSINT </li> 
+<li> 🤔 Requests, BeautifulSoup4, Selenium, Asyncio </li>
+<li> 🤓 Agile Methodologies, Clean code, SOLID, KISS, DRY </li>
+<li> &#128220 Languages: English (Upper-intermediate) B2, Russian (Native) C2; </li>
+<li> </li>
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Certificates+for+completed+courses:" alt="Typing SVG" /></a>
 <li> <a href="https://stepik.org/cert/1560586"> Stepik course - "Поколение Python": курс для начинающих </a> </li>
