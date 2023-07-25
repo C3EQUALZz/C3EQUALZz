@@ -14,7 +14,7 @@
   <hr>
   <h2 align="center">  ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~  </h2>
   <div align="center">
-<img src="https://media.tenor.com/4tXvn7g292oAAAAC/shikimoris-not-just-cute-shikimori.gif" align="right">
+<img src="https://media.tenor.com/4tXvn7g292oAAAAC/shikimoris-not-just-cute-shikimori.gif" width="373.5px" height="300.5px" align="right">
   </div>
 <li><b>Name:</b> Danil </li>
 <li><b>Surname:</b> Kovalev </li>
@@ -34,7 +34,7 @@ My journey into the IT world began quite recently as I am currently a university
   <div align="center">
   <a href="https://github.com/C3EQUALZz">
     <img src="https://skillicons.dev/icons?i=python,java,bash,git,linux,regex,html,css,postgres,cloudflare" align="right"/><br><br>
-  <img width="600" src="photo_github/github-snake.svg" alt="snake" align="right"/>
+  <img width="400" src="photo_github/github-snake.svg" alt="snake" align="right"/>
   </a>
   </div>
 </div>
