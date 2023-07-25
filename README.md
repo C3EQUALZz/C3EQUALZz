@@ -7,7 +7,7 @@
    <img src="https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-5.gif"  />
     <br>
   <h2> Hi there, I'm <a href="https://github.com/C3EQUALZz/C3EQUALZz" target="_blank"> Danil Kovalev</a> </h2>
-  <h2>𝓘'𝓶 𝓪 𝓼𝓮𝓵𝓯-𝓽𝓪𝓾𝓰𝓱𝓽 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓲𝓷 𝓒𝔂𝓫𝓮𝓻𝓢𝓮𝓬𝓾𝓻𝓲𝓽𝔂, 𝓓𝓮𝓿𝓸𝓵𝓸𝓹𝓶𝓮𝓷𝓽</h2>
+  <h2>I'm self-taught passionate in CyberSecurity, Development </h2>
     </div>
 
 <div style="font-family: FiraCode; font-size: 22px">
