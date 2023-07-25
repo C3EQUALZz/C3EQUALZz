@@ -14,7 +14,7 @@
   <hr>
   <h2 align="center">  ~ About me ~  </h2>
   <div align="center">
-<img src="https://media.tenor.com/4tXvn7g292oAAAAC/shikimoris-not-just-cute-shikimori.gif" width="330.5px" height="300.5px" align="right">
+<img src="https://media.tenor.com/4tXvn7g292oAAAAC/shikimoris-not-just-cute-shikimori.gif" width="320.5px" height="250.5px" align="right">
   </div>
 <li><b>Name:</b> Danil </li>
 <li><b>Surname:</b> Kovalev </li>
