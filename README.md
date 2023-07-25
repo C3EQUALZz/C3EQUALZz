@@ -14,7 +14,7 @@
   <hr>
   <h2 align="center">  ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~  </h2>
   <div align="center">
-<img src="https://media.tenor.com/4tXvn7g292oAAAAC/shikimoris-not-just-cute-shikimori.gif" width="373.5px" height="300.5px" align="right">
+<img src="https://media.tenor.com/4tXvn7g292oAAAAC/shikimoris-not-just-cute-shikimori.gif" width="330.5px" height="300.5px" align="right">
   </div>
 <li><b>Name:</b> Danil </li>
 <li><b>Surname:</b> Kovalev </li>
@@ -40,13 +40,12 @@ My journey into the IT world began quite recently as I am currently a university
 </div>
 
 <div style="font-family: FiraCode; font-size: 22px">
-<a href="https://github.com/C3EQUALZz"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+is+love" alt="Typing SVG" /></a>
 <p align = 'left'>
 <li> 🌱 I’m currently learning: air-cracking, OOP, async python, web parsing;</li> 
 <li> 🔭 I’m currently working on OSINT telegram bot; </li> 
 <li> 🤔 I'm actively studying algorithms and data structures; </li> 
 
-Certificates for completed courses:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Certificates+for+completed+courses:" alt="Typing SVG" /></a>
 <li> <a href="https://stepik.org/cert/1560586"> Stepik course - "Поколение Python": курс для начинающих </a> </li>
 <li> <a href="https://stepik.org/cert/1909905"> Stepik course - "Поколение Python": курс для продвинутых </a> </li>
 <li> <a href="https://stepik.org/cert/1932793"> Stepik course - Инди-курс программирования на Python </a> </li>
