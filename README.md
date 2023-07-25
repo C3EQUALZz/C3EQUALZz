@@ -14,7 +14,7 @@
   <hr>
   <h2 align="center">  ~ About me ~  </h2>
   <div align="center">
-<img src="https://media.2x2tv.ru/content/images/size/w1440h1440/2022/05/vfyu.jpg" width="320.5px" height="250.5px" align="right">
+<img src="https://cdn140.picsart.com/287425545055211.png" width="800px" height="250.5px" align="right">
   </div>
 <li><b>Name:</b> Danil </li>
 <li><b>Surname:</b> Kovalev </li>
