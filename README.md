@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="ru">
     <body>
-    <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+    <h1 align="center">~ 💖 Welcome to my profile 💖 ~</h1>
     <br>
     <div align="center" style="font-size:35px">
    <img src="https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-5.gif"  />
     <br>
-  <h2> Hi there, I'm <a href="https://github.com/C3EQUALZz/C3EQUALZz" target="_blank"> Danil Kovalev</a> </h2>
-  <h2>I'm self-taught passionate in CyberSecurity, Development </h2>
+  <p> Hi there, I'm <a href="https://github.com/C3EQUALZz/C3EQUALZz" target="_blank"> Danil Kovalev</a> </p>
+  <p>I'm self-taught passionate in CyberSecurity, Development </p>
     </div>
 
 <div style="font-family: FiraCode; font-size: 22px">
   <hr>
-  <h2 align="center">  ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~  </h2>
+  <h2 align="center">  ~ About me ~  </h2>
   <div align="center">
 <img src="https://media.tenor.com/4tXvn7g292oAAAAC/shikimoris-not-just-cute-shikimori.gif" width="330.5px" height="300.5px" align="right">
   </div>
@@ -29,7 +29,7 @@ My journey into the IT world began quite recently as I am currently a university
 <hr>
 
 <div>
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="center">            ~ 📇 Knowledge 📇 ~</h2>
  <br>
   <div align="center">
   <a href="https://github.com/C3EQUALZz">
@@ -54,7 +54,7 @@ My journey into the IT world began quite recently as I am currently a university
 <br>
 <hr>
 
-<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<h2 align="center">           📝 ~ Contact me ~ 📝</h2>
   <div align="center">
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
   </div>
@@ -72,7 +72,7 @@ most used social things >~< xoxox</p>
 </div>
 <br>
 
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 align="center">💖 ~ Thanks for reading! ~ 💖</h2>
 <hr>
 
 
