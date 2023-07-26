@@ -59,8 +59,8 @@ My journey into the IT world began quite recently as I am currently a university
 <hr>
 
 <h2 align="center">           📝 ~ Contact me ~ 📝</h2>
-  <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+  <div align="center" >
+<img src="photo_github/pngwing.png" align="right" width="409px" height="407px">
   </div>
 <br>
 <p align="center" style="font-family: FiraCode; font-size: 27px">Hewe awe some of my <br>
