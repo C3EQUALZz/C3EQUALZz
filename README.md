@@ -4,7 +4,7 @@
     <h1 align="center">~ 💖 Welcome to my profile 💖 ~</h1>
     <br>
     <div align="center" style="font-size:35px">
-   <img src="https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-5.gif"  />
+   <img src="photo_github/pngegg.png" width="500px" />
     <br>
   <p> Hi there, I'm <a href="https://github.com/C3EQUALZz/C3EQUALZz" target="_blank"> Danil Kovalev </a> (Pentester) </p>
   <p>I'm self-taught passionate in CyberSecurity </p>
