@@ -47,7 +47,6 @@ My journey into the IT world began quite recently as I am currently a university
 <li> 🤔 Requests, BeautifulSoup4, Selenium, Asyncio </li>
 <li> 🤓 Agile Methodologies, Clean code, SOLID, KISS, DRY </li>
 <li> &#128220 Languages: English (Upper-intermediate) B2, Russian (Native) C2; </li>
-<li> </li>
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Certificates+for+completed+courses:" alt="Typing SVG" /></a>
 <li> <a href="https://stepik.org/cert/1560586"> Stepik course - "Поколение Python": курс для начинающих </a> </li>
