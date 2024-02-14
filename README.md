@@ -55,6 +55,7 @@ My journey into the IT world began quite recently as I am currently a university
 <li> <a href="https://stepik.org/cert/2157118"> Stepik course - "Поколение Python": ООП</a></li>
 <li> <a href="https://stepik.org/cert/1932793"> Stepik course - Инди-курс программирования на Python </a> </li>
 <li> <a href="https://stepik.org/cert/2074813"> Stepik course - Введение в Linux </a> </li>
+<li> <a href="https://stepik.org/cert/2360757"> Stepik course - Java с нуля до Junior + Подготовка к собеседованию </a> </li>
 </p>
 <br>
 <hr>
