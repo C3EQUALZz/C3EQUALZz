@@ -2,89 +2,90 @@
 <html lang="ru">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-    body {
-        font-family: FiraCode, sans-serif;
-        font-size: 22px; /* Базовый размер шрифта */
-        padding: 0;
-        line-height: 1.6;
-    }
-    .centered {
-        text-align: center;
-    }
-    .intro img {
-        max-width: 100%;
-        height: auto;
-    }
-    .profile-details img {
-        max-width: 100%;
-        height: auto;
-    }
-    .right {
-        float: right;
-        margin: 0 1rem 1rem 0;
-        max-width: 60%; /* Чтобы картинка не занимала слишком много места на малых экранах */
-    }
-    .profile-details ul,
-    .knowledge-skills ul {
-        list-style-type: none;
-        padding: 0;
-    }
-    .profile-details ul li,
-    .knowledge-skills ul li {
-        margin-bottom: 0.5rem;
-        text-align: left; /* Выравнивание элементов списка по левому краю */
-    }
-    .knowledge-skills img {
-        width: 60%;
-        height: 60%;
-    }
-    a {
-        color: #0073e6;
-        text-decoration: none;
-    }
-    a:hover {
-        text-decoration: underline;
-    }
-    .github-stats {
-        display: flex;
-        justify-content: center;
-        gap: 1.25rem;
-    }
-    hr {
-        border: 1px solid #ccc;
-        margin: 1.25rem 0;
-    }
-    @media (max-width: 1200px) {
+<head>
+    <style>
         body {
-            font-size: 18px; /* Уменьшение размера шрифта для экранов до 1200px */
+            font-family: FiraCode, sans-serif;
+            font-size: 22px; /* Базовый размер шрифта */
+            padding: 0;
+            line-height: 1.6;
         }
-    }
-    @media (max-width: 992px) {
-        body {
-            font-size: 16px; /* Уменьшение размера шрифта для экранов до 992px */
+        .centered {
+            text-align: center;
+        }
+        .intro img {
+            max-width: 100%;
+            height: auto;
+        }
+        .profile-details img {
+            max-width: 100%;
+            height: auto;
         }
         .right {
             float: right;
             margin: 0 1rem 1rem 0;
-            max-width: 80%; /* Чтобы картинка не занимала слишком много места на малых экранах */
+            max-width: 60%; /* Чтобы картинка не занимала слишком много места на малых экранах */
+        }
+        .profile-details ul,
+        .knowledge-skills ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .profile-details ul li,
+        .knowledge-skills ul li {
+            margin-bottom: 0.5rem;
+            text-align: left; /* Выравнивание элементов списка по левому краю */
         }
         .knowledge-skills img {
-            width: 90%;
-            height: 70%;
+            width: 60%;
+            height: 60%;
         }
-    }
-    @media (max-width: 768px) {
-        body {
-            font-size: 14px; /* Уменьшение размера шрифта для экранов до 768px */
+        a {
+            color: #0073e6;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
         }
         .github-stats {
-            flex-direction: column;
-            gap: 0.5rem;
+            display: flex;
+            justify-content: center;
+            gap: 1.25rem;
         }
-    }
-</style>
-
+        hr {
+            border: 1px solid #ccc;
+            margin: 1.25rem 0;
+        }
+        @media (max-width: 1200px) {
+            body {
+                font-size: 18px; /* Уменьшение размера шрифта для экранов до 1200px */
+            }
+        }
+        @media (max-width: 992px) {
+            body {
+                font-size: 16px; /* Уменьшение размера шрифта для экранов до 992px */
+            }
+            .right {
+                float: right;
+                margin: 0 1rem 1rem 0;
+                max-width: 80%; /* Чтобы картинка не занимала слишком много места на малых экранах */
+            }
+            .knowledge-skills img {
+                width: 90%;
+                height: 70%;
+            }
+        }
+        @media (max-width: 768px) {
+            body {
+                font-size: 14px; /* Уменьшение размера шрифта для экранов до 768px */
+            }
+            .github-stats {
+                flex-direction: column;
+                gap: 0.5rem;
+            }
+        }
+    </style>
+</head>
 <body>
     <h1 class="centered">~ 💖 Welcome to my profile 💖 ~</h1>
     <br>
