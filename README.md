@@ -79,8 +79,6 @@ most used social things >~< xoxox</p>
 </div>
 <br>
 <hr>
-<h1 align="center">💖 ~ Thanks for reading! ~ 💖</h2>
-
 </body>
 </html>
 
