@@ -7,8 +7,8 @@
    <img src="https://i.redd.it/clean-and-minimalistic-vagabond-banner-for-discord-and-v0-48g7ci8ondia1.jpg?s=3da2b0853c71197ecf60aed4d1c68d695d52dc47" />
     <br>
     <br>
-  <p> Hi there, I'm <a href="https://github.com/C3EQUALZz/C3EQUALZz" target="_blank"> Danil Kovalev </a> (Pentester) </p>
-  <p>I'm self-taught passionate in CyberSecurity </p>
+  <p> Hi there, I'm <a href="https://github.com/C3EQUALZz/C3EQUALZz" target="_blank"> Danil Kovalev </a> </p>
+  <p>I'm self-taught passionate in CyberSecurity and Developing </p>
     </div>
 
 <div style="font-family: FiraCode; font-size: 22px">
@@ -22,10 +22,10 @@
 <li><b>Nickname:</b> c3equalz </li>
 <li><b>Loves:</b> hacking, programming, anime, math </li>
 <li><b>Gender:</b> he/his/male </li>
-<li><b>Hobbys:</b> pentesting, wardriving, OSINT </li>
+<li><b>Hobbys:</b> OSINT, Python Backend Developing </li>
 <li><b>Experience:</b> none </li>
-<p align="left"> I am a beginner pentester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
-My journey into the IT world began quite recently as I am currently a university student. During my free time, I strive to expand my knowledge by taking various courses. I am particularly interested in information security, especially pentesting, hacking methods, and social engineering. As a beginner in this field, I am actively studying all aspects of information security to become a qualified specialist who can help protect companies and organizations from cyberattacks. You can find my projects and research on my GitHub account, and I am always open to collaborating and communicating with other experts in the field. </p>
+<p align="left"> I am a beginner developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
+My journey into the IT world began quite recently as I am currently a university student. During my free time, I strive to expand my knowledge by taking various courses. I am particularly interested in backend development with Python and information security. As a beginner in this field, I am actively studying all aspects to become a qualified specialist who can help protect companies and organizations from cyberattacks. You can find my projects and research on my GitHub account, and I am always open to collaborating and communicating with other experts in the field. </p>
 <br>
 </div>
 <hr>
