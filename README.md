@@ -4,7 +4,8 @@
     <h1 align="center">~ 💖 Welcome to my profile 💖 ~</h1>
     <br>
     <div align="center" style="font-size:35px">
-   <img src="https://i.redd.it/clean-and-minimalistic-vagabond-banner-for-discord-and-v0-48g7ci8ondia1.jpg?s=3da2b0853c71197ecf60aed4d1c68d695d52dc47" width="500px" />
+   <img src="https://i.redd.it/clean-and-minimalistic-vagabond-banner-for-discord-and-v0-48g7ci8ondia1.jpg?s=3da2b0853c71197ecf60aed4d1c68d695d52dc47" />
+    <br>
     <br>
   <p> Hi there, I'm <a href="https://github.com/C3EQUALZz/C3EQUALZz" target="_blank"> Danil Kovalev </a> (Pentester) </p>
   <p>I'm self-taught passionate in CyberSecurity </p>
