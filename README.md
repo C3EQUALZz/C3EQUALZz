@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Мой профиль</title>
 </head>
 <body style="font-family: FiraCode, sans-serif; font-size: 22px; padding: 0; line-height: 1.6;">
     <h1 style="text-align: center;">~ 💖 Welcome to my profile 💖 ~</h1>
@@ -11,8 +10,8 @@
     <div style="text-align: center;">
         <img src="assets/github-snake.svg" alt="Snake" style="max-width: 100%; height: auto;">
         <br><br>
-        <h4>Hi there, I'm <a href="https://github.com/C3EQUALZz/C3EQUALZz" target="_blank" style="color: #0073e6; text-decoration: none;">Danil Kovalev</a></h4>
-        <h4 style="color: #0073e6;">I'm self-taught passionate in CyberSecurity and Developing</h4>
+        <h4 style="text-align: center;">Hi there, I'm <a href="https://github.com/C3EQUALZz/C3EQUALZz" target="_blank" style="color: #0073e6; text-decoration: none;">Danil Kovalev</a></h4>
+        <h4 style="color: #0073e6; text-align: center">I'm self-taught passionate in CyberSecurity and Developing</h4>
     </div>
     <div style="margin: 0 auto; max-width: 800px; padding: 0 20px;">
         <hr style="border: 1px solid #ccc; margin: 1.25rem 0;">
