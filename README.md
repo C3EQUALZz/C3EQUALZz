@@ -78,8 +78,8 @@ most used social things >~< xoxox</p>
 </p>
 </div>
 <br>
-<h2 align="center">💖 ~ Thanks for reading! ~ 💖</h2>
 <hr>
+<h1 align="center">💖 ~ Thanks for reading! ~ 💖</h2>
 
 </body>
 </html>
