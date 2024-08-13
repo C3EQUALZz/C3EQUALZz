@@ -62,6 +62,9 @@
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C3EQUALZz&layout=compact&theme=dracula&hide_border=true"  alt="github_stats"/>
         </a>
+        <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
+            <img align="center" src="https://leetcard.jacoblin.cool/c3equalzRU" alt="LeetCode stats">
+        </a>
     </div>
 </body>
 </html>
