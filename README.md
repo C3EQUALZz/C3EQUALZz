@@ -15,8 +15,6 @@
             <img src="https://cdn140.picsart.com/287425545055211.png" width="600px" height="200.5px" align="right" alt="About Me">
         </div>
         <ul>
-            <li><b>Name:</b> Danil </li>
-            <li><b>Surname:</b> Kovalev </li>
             <li><b>Nickname:</b> c3equalz </li>
             <li><b>Loves:</b> programming, anime, math </li>
             <li><b>Gender:</b> he/his/male </li>
