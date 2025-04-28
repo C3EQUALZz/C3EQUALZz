@@ -20,7 +20,7 @@
             <li><b>Gender:</b> he/his/male </li>
             <li><b>Hobby's:</b> backend developing, OSINT, cryptography </li>
         </ul>
-        <p align="left">I am a beginner developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px" alt="GIF">.
+        <p align="left">I am a backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px" alt="GIF">.
         My journey into the IT world began quite recently as I am currently a university student. During my free time, I strive to expand my knowledge by taking various courses. I am particularly interested in backend development with Python, and I also explore information security, especially pentesting, hacking methods, and social engineering. Additionally, I have a keen interest in development and possess knowledge of design patterns. I am actively studying computer science to deepen my understanding of the field. As a beginner in this field, I am actively studying all aspects of backend development to become a qualified specialist who can create robust and secure applications. You can find my projects and research on my GitHub account, and I am always open to collaborating and communicating with other experts in the field.</p>
         <br>
     </div>
