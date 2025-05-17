@@ -34,6 +34,22 @@
             </a>
         </div>
     </div>
+    <div>
+        <p align="left">
+            <br><br>
+            <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Certificates+for+completed+courses:" alt="Typing SVG" /></a>
+            <ul>
+                <li> <a href="https://stepik.org/cert/1560586"> Stepik course - "Поколение Python": курс для начинающих </a> </li>
+                <li> <a href="https://stepik.org/cert/1909905"> Stepik course - "Поколение Python": курс для продвинутых </a> </li>
+                <li> <a href="https://stepik.org/cert/2136212"> Stepik course - "Поколение Python": курс для профессионалов </a></li>
+                <li> <a href="https://stepik.org/cert/2157118"> Stepik course - "Поколение Python": ООП</a></li>
+                <li> <a href="https://stepik.org/cert/1932793"> Stepik course - Инди-курс программирования на Python </a> </li>
+                <li> <a href="https://stepik.org/cert/2074813"> Stepik course - Введение в Linux </a> </li>
+                <li> <a href="https://stepik.org/cert/2360757"> Stepik course - Java с нуля до Junior + Подготовка к собеседованию </a> </li>
+            </ul>
+        <br>
+    </div>
+    <br>
     <br>
     <h2 align="center">💖 ~ Thanks for reading! ~ 💖</h2>
     <hr>
