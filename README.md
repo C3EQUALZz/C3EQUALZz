@@ -46,6 +46,7 @@
                 <li> <a href="https://stepik.org/cert/1932793"> Stepik course - Инди-курс программирования на Python </a> </li>
                 <li> <a href="https://stepik.org/cert/2074813"> Stepik course - Введение в Linux </a> </li>
                 <li> <a href="https://stepik.org/cert/2360757"> Stepik course - Java с нуля до Junior + Подготовка к собеседованию </a> </li>
+                <li> <a href="assets/Ковалев Данил Петрович.AL-1702.pdf"> Astra - 1702 </li>
             </ul>
         <br>
     </div>
