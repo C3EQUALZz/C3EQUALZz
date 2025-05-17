@@ -47,6 +47,7 @@
                 <li> <a href="https://stepik.org/cert/2074813"> Stepik course - Введение в Linux </a> </li>
                 <li> <a href="https://stepik.org/cert/2360757"> Stepik course - Java с нуля до Junior + Подготовка к собеседованию </a> </li>
                 <li> <a href="assets/Ковалев Данил Петрович.AL-1702.pdf"> Astra - 1702 </li>
+                <li> <a href="assets/Ковалев Данил Петрович.AL-1703.pdf"> Astra - 1703 </li>
             </ul>
         <br>
     </div>
