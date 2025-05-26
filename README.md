@@ -48,7 +48,7 @@
                 <li> <a href="https://stepik.org/cert/2360757"> Stepik course - Java с нуля до Junior + Подготовка к собеседованию </a> </li>
                 <li> <a href="assets/Ковалев Данил Петрович.AL-1702.pdf"> Astra - 1702 </li>
                 <li> <a href="assets/Ковалев Данил Петрович.AL-1703.pdf"> Astra - 1703 </li>
-                <li> <a href="assets/hack-2025.pdf"> Hackatho - 2025</li>
+                <li> <a href="assets/hack-2025.pdf"> Hack - 2025</li>
             </ul>
         <br>
     </div>
